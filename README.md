@@ -72,7 +72,7 @@ To save the file from local repo to github respo:
   ```
 
   - To install pip:
-    ```
-    sudo apt install python3-pip
-    ```
+  ```
+  sudo apt install python3-pip
+  ```
     
