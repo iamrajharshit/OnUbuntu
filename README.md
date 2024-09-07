@@ -46,7 +46,7 @@ To save the file from local repo to github respo:
   ```
   git commit -m ""
   ```
-- push the file to the desired brach:
+- push the file to the desired branch:
   ```
   git push origin main
   ```
