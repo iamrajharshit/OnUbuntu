@@ -64,14 +64,12 @@ To save the file from local repo to github respo:
     ```
     git push origin <branch>
     ```
-
-  ## Setting up python
-
+ ## Setting up python
+ - To install python:
   ```
   sudo apt install python3
   ```
-
-  - To install pip:
+ - To install pip:
   ```
   sudo apt install python3-pip
   ```
