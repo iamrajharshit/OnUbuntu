@@ -1,5 +1,5 @@
 # OnUbuntu
-Setting up git on Ubuntu (Linux)
+## Setting up git on Ubuntu (Linux)
 
 Install git:
 ```
@@ -63,5 +63,16 @@ To save the file from local repo to github respo:
   - Push:
     ```
     git push origin <branch>
+    ```
+
+  ## Setting up python
+
+  ```
+  sudo apt install python3
+  ```
+
+  - To install pip:
+    ```
+    sudo apt install python3-pip
     ```
     
